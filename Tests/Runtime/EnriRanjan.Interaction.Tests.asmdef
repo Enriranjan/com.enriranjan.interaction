@@ -1,8 +1,8 @@
 {
-    "name": "EnriRanjan.__PACKAGE_NAME__.Tests",
-    "rootNamespace": "EnriRanjan.__PACKAGE_NAME__.Tests",
+    "name": "EnriRanjan.Interaction.Tests",
+    "rootNamespace": "EnriRanjan.Interaction.Tests",
     "references": [
-        "EnriRanjan.__PACKAGE_NAME__",
+        "EnriRanjan.Interaction",
         "UnityEngine.TestRunner"
     ],
     "includePlatforms": [],

@@ -1,8 +1,8 @@
-# __DISPLAY_NAME__
+# Interaction
 
-__DESCRIPTION__
+Sistema de interacción de objetos para aventura gráfica: combinación de items mediante recetas (válidas e inválidas), sockets de uno o varios slots con aceptación por tipo, máquinas de estados discretos y contenedores revelables. C# puro, agnóstico al motor y al contenido del juego; los objetos se definen como datos, no como código.
 
-Package: `com.enriranjan.__PACKAGE_ID__`
+Package: `com.enriranjan.interaction`
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ Package: `com.enriranjan.__PACKAGE_ID__`
 
 ## Installation
 
-See the main [README](../README.md#instalación) for installation instructions
+See the main [README](../README.md#instalaciÃ³n) for installation instructions
 (Git URL or embedded package).
 
 ## Getting Started

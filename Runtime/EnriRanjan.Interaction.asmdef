@@ -1,6 +1,6 @@
 {
-    "name": "EnriRanjan.__PACKAGE_NAME__",
-    "rootNamespace": "EnriRanjan.__PACKAGE_NAME__",
+    "name": "EnriRanjan.Interaction",
+    "rootNamespace": "EnriRanjan.Interaction",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
